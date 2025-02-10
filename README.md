@@ -75,7 +75,7 @@ task_creation_duration_seconds
 #### 4.4 Prometheus
 Prometheus доступен по адресу: http://localhost:9090
 #### 4.5 Grafana
-Grafana доступена по адресу: http://localhost:3000
+Grafana доступна по адресу: http://localhost:3000
 
 ### 5. Запуск тестов
 Для запуска Unit-тестов запустите команду в корне проекта:
